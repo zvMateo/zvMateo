@@ -5,5 +5,5 @@ const myprofile = {
   AskAboutMe:{ frontend developer},
   Technologies:{ HTML, CSS, JS, Python, SQL},
   Frameworks:{ React, Angular, FastAPI},
-  Database:{ Mongo DB, MySQL}
+  Database:{ MongoDB, MySQL}
 };
