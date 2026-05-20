@@ -23,7 +23,7 @@
 const mateo = {
   role: "Frontend Developer",
   location: "Argentina 🇦🇷",
-  focus: ["React", "Next.js", "TypeScript"],
+  focus: ["React", "Next.js", "TypeScript", "Nestjs"],
   currentlyLearning: ["Advanced TypeScript", "System Design"],
   interests: ["Clean Code", "UI/UX", "Performance Optimization"],
   funFact: "I turn coffee into components ☕→⚛️"
@@ -47,8 +47,10 @@ const mateo = {
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 
 #### Databases
 
